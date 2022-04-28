@@ -1,0 +1,51 @@
+body {
+    background: rgb(197, 226, 197);
+}
+h1 {
+    background-color: rgb(5, 84, 5); 
+    color: white;
+}
+h3 {
+    color: rgb(4, 4, 94);
+    text-transform: capitalize;
+    letter-spacing: 1px;
+}
+.blue_text {
+    color: rgb(2, 2, 200);
+}
+.green_text {
+    color: green;
+}
+.red_text {
+    color: rgb(204, 1, 1);
+}
+h4 {
+    color: rgb(4, 4, 94);
+    letter-spacing: 0.5px;
+}
+h2 {
+    color: indigo;
+    letter-spacing: 2px;
+    text-decoration: underline;
+}
+strong.yellow {
+    color: rgb(220, 220, 4);
+}
+#green {
+    color: rgb(47, 255, 0);
+}
+.rusship {
+    color: rgb(255, 115, 0);
+}
+.rusship#purple {
+    color: purple;
+}
+body .rusship .rgb {
+    color: rgb(84, 0, 252);
+}
+.go.dpink {
+    color: rgb(255, 20, 147);
+}
+.go {
+    color: goldenrod;
+}
